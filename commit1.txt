@@ -1,0 +1,2 @@
+test commit count 1
+test git commit --amend
