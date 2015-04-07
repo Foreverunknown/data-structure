@@ -1,0 +1,6 @@
+test commit count 1
+<<<<<<< HEAD
+test git commit --amend
+=======
+test git commit --amend.
+>>>>>>> defda29c4e8d36f2d923ec92253798db3fb5a5c5
